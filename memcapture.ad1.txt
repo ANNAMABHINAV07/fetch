@@ -1,0 +1,24 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\Users\abhin\Downloads\workshop tools\ram\memcapture.ad1:
+[Computed Hashes]
+ MD5 checksum:    42b6f2fd86af9b1484e115edb91ecfb0
+ SHA1 checksum:   48458dbd298f810b03635b0d0d2e1bdb663e40ab
+
+Image information:
+ Acquisition started:   Thu Nov 14 08:52:44 2024
+ Acquisition finished:  Thu Nov 14 09:02:24 2024
+ Segment list:
+  C:\Users\abhin\Downloads\workshop tools\ram\memcapture.ad1
+  C:\Users\abhin\Downloads\workshop tools\ram\memcapture.ad2
+  C:\Users\abhin\Downloads\workshop tools\ram\memcapture.ad3
+  C:\Users\abhin\Downloads\workshop tools\ram\memcapture.ad4
